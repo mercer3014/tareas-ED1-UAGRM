@@ -1,0 +1,4 @@
+registro: 224102117
+nombre comleto: Alex Brayan Cerezo Choque
+carrera: ingenieria informatica 
+materia: estructura de datos I
