@@ -1,5 +1,5 @@
 # ==============================
-# ADT Conjunto - Estático y Dinámico (sin nodos)
+# ADT Conjunto - Estático y Dinámico
 # Autor: Alex
 # ==============================
 
@@ -81,3 +81,4 @@ if __name__ == "__main__":
     print("Getter índice 0:", cd.get_elemento(0))
     cd.set_elemento(0, 100)
     print("Conjunto Dinámico Modificado:", cd)
+
